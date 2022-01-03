@@ -1,3 +1,3 @@
-Simple Responsibe Web Page Css and HTML Only.
+Responsibe Web Page Css and HTML Only.
 
-Page: 
+Page: http://darcocorporation.scienceontheweb.net/pages/webs/page01
